@@ -1,0 +1,14 @@
+/Users/canpolat/C#/KütüphaneSistemi/bin/Debug/net9.0/KütüphaneSistemi
+/Users/canpolat/C#/KütüphaneSistemi/bin/Debug/net9.0/KütüphaneSistemi.deps.json
+/Users/canpolat/C#/KütüphaneSistemi/bin/Debug/net9.0/KütüphaneSistemi.runtimeconfig.json
+/Users/canpolat/C#/KütüphaneSistemi/bin/Debug/net9.0/KütüphaneSistemi.dll
+/Users/canpolat/C#/KütüphaneSistemi/bin/Debug/net9.0/KütüphaneSistemi.pdb
+/Users/canpolat/C#/KütüphaneSistemi/obj/Debug/net9.0/KütüphaneSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/canpolat/C#/KütüphaneSistemi/obj/Debug/net9.0/KütüphaneSistemi.AssemblyInfoInputs.cache
+/Users/canpolat/C#/KütüphaneSistemi/obj/Debug/net9.0/KütüphaneSistemi.AssemblyInfo.cs
+/Users/canpolat/C#/KütüphaneSistemi/obj/Debug/net9.0/KütüphaneSistemi.csproj.CoreCompileInputs.cache
+/Users/canpolat/C#/KütüphaneSistemi/obj/Debug/net9.0/KütüphaneSistemi.dll
+/Users/canpolat/C#/KütüphaneSistemi/obj/Debug/net9.0/refint/KütüphaneSistemi.dll
+/Users/canpolat/C#/KütüphaneSistemi/obj/Debug/net9.0/KütüphaneSistemi.pdb
+/Users/canpolat/C#/KütüphaneSistemi/obj/Debug/net9.0/KütüphaneSistemi.genruntimeconfig.cache
+/Users/canpolat/C#/KütüphaneSistemi/obj/Debug/net9.0/ref/KütüphaneSistemi.dll

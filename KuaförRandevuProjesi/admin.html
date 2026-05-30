@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="admin.css">
+
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+</head>
+<body>
+
+<h1>RANDEVULAR</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th class="baslik">Ad Soyad</th>
+            <th class="baslik">Telefon</th>
+            <th class="baslik">Tarih</th>
+            <th class="baslik">Saat</th>
+            <th class="baslik">Sil</th>
+        </tr>
+    </thead>
+    <tbody id="liste"></tbody>
+</table>
+
+
+
+
+
+<script>
+
+const firebaseConfig = {
+    apiKey: "AIzaSyB3rsODdYU2fTMyppLf9k2UFbNSYxb42Ig",
+    authDomain: "kuafor-randevu-90ee6.firebaseapp.com",
+    projectId: "kuafor-randevu-90ee6",
+    storageBucket: "kuafor-randevu-90ee6.firebasestorage.app",
+    messagingSenderId: "548876678746",
+    appId: "1:548876678746:web:b2ed1400fab0126bdf8a63",
+    measurementId: "G-1Q5X3VBE51"
+};
+
+firebase.initializeApp(firebaseConfig);
+const db = firebase.firestore();
+
+const liste = document.getElementById("liste");
+
+db.collection("randevular").get().then(snapshot => {
+    snapshot.forEach(doc => {
+        const r = doc.data();
+
+        liste.innerHTML += `
+            <tr>
+                <td>${r.adSoyad}</td>
+                <td>${r.telefon}</td>
+                <td>${r.tarih}</td>
+                <td>${r.saat}</td>
+                <td>
+                    <button onclick="sil('${doc.id}')">Sil</button>
+                </td>
+            </tr>
+        `;
+    });
+});
+
+function sil(id) {
+    if (confirm("Randevu silinsin mi?")) {
+        db.collection("randevular").doc(id).delete().then(() => {
+            location.reload();
+        });
+    }
+}
+</script>
+
+</body>
+</html>

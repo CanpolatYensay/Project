@@ -1,0 +1,48 @@
+
+body{
+    background-image: url(fotograflar/seamless-pattern-hairdressing-elements-vector-illustration-doodle-icons-background-wallpaper-concept-hairdressing-salon-beauty-salon_78677-10163.avif);
+    background-position: center;
+}
+
+
+
+table{
+    width: 100%;
+    background-color: rgb(149, 216, 255);
+    border-collapse: collapse ;
+    border: 3px solid black;
+    text-align: center;
+}
+
+
+/* baslıklar */
+.baslik{
+    border-collapse: collapse;
+    border: 3px solid black;
+    padding: 15px;
+    font-size: 30px;
+}
+
+
+/* gelen randevu alanı */
+td{
+    border-collapse: collapse;
+    border: 3px solid black;
+    padding: 15px;
+    font-size: 25px;
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+

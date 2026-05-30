@@ -1,0 +1,14 @@
+/Users/canpolat/C#/BankaHesapSistemi/bin/Debug/net9.0/BankaHesapSistemi
+/Users/canpolat/C#/BankaHesapSistemi/bin/Debug/net9.0/BankaHesapSistemi.deps.json
+/Users/canpolat/C#/BankaHesapSistemi/bin/Debug/net9.0/BankaHesapSistemi.runtimeconfig.json
+/Users/canpolat/C#/BankaHesapSistemi/bin/Debug/net9.0/BankaHesapSistemi.dll
+/Users/canpolat/C#/BankaHesapSistemi/bin/Debug/net9.0/BankaHesapSistemi.pdb
+/Users/canpolat/C#/BankaHesapSistemi/obj/Debug/net9.0/BankaHesapSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/canpolat/C#/BankaHesapSistemi/obj/Debug/net9.0/BankaHesapSistemi.AssemblyInfoInputs.cache
+/Users/canpolat/C#/BankaHesapSistemi/obj/Debug/net9.0/BankaHesapSistemi.AssemblyInfo.cs
+/Users/canpolat/C#/BankaHesapSistemi/obj/Debug/net9.0/BankaHesapSistemi.csproj.CoreCompileInputs.cache
+/Users/canpolat/C#/BankaHesapSistemi/obj/Debug/net9.0/BankaHesapSistemi.dll
+/Users/canpolat/C#/BankaHesapSistemi/obj/Debug/net9.0/refint/BankaHesapSistemi.dll
+/Users/canpolat/C#/BankaHesapSistemi/obj/Debug/net9.0/BankaHesapSistemi.pdb
+/Users/canpolat/C#/BankaHesapSistemi/obj/Debug/net9.0/BankaHesapSistemi.genruntimeconfig.cache
+/Users/canpolat/C#/BankaHesapSistemi/obj/Debug/net9.0/ref/BankaHesapSistemi.dll

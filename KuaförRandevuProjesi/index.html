@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Kuaför Zekeriya Randevu Sistemi</title>
+    <link rel="stylesheet" href="style.css">
+
+
+    <!-- firebase -->
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script>
+    
+</head>
+
+
+
+
+<body>
+
+    <!-- navbar -->
+    <nav class="navbar">
+        <div class="logo">Kuaför Zekeriya</div>
+        <ul class="menu">
+            <li><a href="#randevu">Randevu</a></li>
+            <li><a href="#fiyatlar">Fiyat Listesi</a></li>
+            <li><a href="#hakkimda">Hakkımda</a></li>
+        </ul>
+    </nav>
+
+    
+    <!-- randevu alanı   -->
+    <div class="arkaplan" id="randevu">
+        <div class="randevuAlanı">
+            <h1>KUAFÖR ZEKERİYA</h1>
+            <p class="uyarı"></p>
+
+            <form>
+                <label>İsim Soyisim</label>
+                <input type="text" placeholder="Ad Soyad" required>
+
+                <label>Telefon Numarası</label>
+                <input type="tel" placeholder="05XX XXX XX XX" required>
+
+                <label>Randevu Tarihi</label>
+                <input type="date" required>
+
+                <label>Randevu Saati</label>
+                <select required>
+                    <option value="">Saat Seçiniz</option>
+                    <option>09:00</option>
+                    <option>10:00</option>
+                    <option>11:00</option>
+                    <option>13:00</option>
+                    <option>14:00</option>
+                    <option>15:00</option>
+                    <option>16:00</option>
+                    <option>17:00</option>
+                    <option>18:00</option>
+                    <option>19:00</option>
+                    <option>20:00</option>
+                </select>
+
+                <button type="submit">Randevu Al</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- fiyat listesi -->
+    <section class="fiyatArkaplan" id="fiyatlar">
+        <div class="fiyatAlani">
+            <h2>FİYAT LİSTESİ</h2>
+            
+        <div class="kartAyırma">  
+
+            <div class="kart">
+                <div class="aciklama">
+                    <h3>Saç Kesimi</h3>
+                    <p>Profesyonel saç kesimi yapılır.</p>
+                </div>
+                <div class="fiyat">350₺</div>
+            </div>
+
+            <div class="kart">
+                <div class="aciklama">
+                    <h3>Sakal Tıraşı</h3>
+                    <p>Profesyonel sakal tıraşı yapılır.</p>
+                </div>
+                <div class="fiyat">100₺</div>
+            </div>
+
+            <div class="kart">
+                <div class="aciklama">
+                    <h3>Saç + Sakal</h3>
+                    <p>Saç kesimi ve sakal tıraşı birlikte uygulanır.</p>
+                </div>
+                <div class="fiyat">450₺</div>
+            </div>
+
+            <div class="kart">
+                <div class="aciklama">
+                    <h3>Saç + Sakal + Yıkama</h3>
+                    <p>Saç kesimi, sakal tıraşı ve yıkama işlemi birlikte uygulanır.</p>
+                </div>
+                <div class="fiyat">500₺</div>
+            </div>
+
+            <div class="kart">
+                <div class="aciklama">
+                    <h3>Çocuk Tıraşı</h3>
+                    <p>Çocuklara uygun alanda profesyonel saç kesimi yapılır.</p>
+                </div>
+                <div class="fiyat">250₺</div>
+            </div>
+
+            <div class="kart">
+                <div class="aciklama">
+                    <h3>Saç Boyama</h3>
+                    <p>Profesyonel boya ürünleri ile saç boyama işlemi yapılır.</p>
+                </div>
+                <div class="fiyat">1000₺</div>
+            </div>
+
+            <div class="kart">
+                <div class="aciklama">
+                    <h3>Damat Tıraşı</h3>
+                    <p>Profesyonel damat tıraşı yapılır.</p>
+                </div>
+                <div class="fiyat">2000₺</div>
+            </div>
+
+            <div class="kart">
+                <div class="aciklama">
+                    <h3>Kişisel Bakım</h3>
+                    <p>Profesyonel bakım ürünleri ile cilt bakım işlemi yapılır.</p>
+                </div>
+                <div class="fiyat">300₺</div>
+            </div>
+
+            </div>
+            
+
+        </div>
+    </section>
+
+    <!-- hakkımda -->
+    <section class="hakkimda" id="hakkimda">
+        <h1>Hakkımda</h1>
+
+        <br>
+
+        <p>
+            Kuaför Zekeriya olarak 20 yıllık tecrübeye dayanan profesyonel 
+            şekilde saç kesim ve tasarım işlemleri ile uğraşan, mesleğine hakim 
+            ve severek yapan bir kişiyim. 
+            Müşteri memnuniyeti bizim için her zaman ön plandadır.
+        </p>
+
+        <br>    
+
+        <p>kuaforzekeriya@gmail.com </p>
+        
+
+
+    </section>
+    
+
+
+
+    <!-- firebase Ayarları -->
+    <script>
+        const firebaseConfig = {
+            apiKey: "AIzaSyB3rsODdYU2fTMyppLf9k2UFbNSYxb42Ig",
+            authDomain: "kuafor-randevu-90ee6.firebaseapp.com",
+            projectId: "kuafor-randevu-90ee6",
+            storageBucket: "kuafor-randevu-90ee6.firebasestorage.app",
+            messagingSenderId: "548876678746",
+            appId: "1:548876678746:web:b2ed1400fab0126bdf8a63",
+            measurementId: "G-1Q5X3VBE51"
+        };
+
+        firebase.initializeApp(firebaseConfig);
+        const db = firebase.firestore();
+    </script>
+
+    
+
+
+    <script src="script.js"></script>
+
+
+
+</body>
+</html>

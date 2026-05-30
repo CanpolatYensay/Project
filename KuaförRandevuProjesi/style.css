@@ -1,0 +1,203 @@
+
+/* Bütün koda uygulanacak */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;                 /* verilen genişlik yükseklik dahil */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* navbar özellikleri */
+.navbar {
+    position: fixed;                        /* ekran aşağı indirilse bile yok olmaz */
+    top: 0;
+    width: 100%;
+    height: 70px;
+    background-color: black;              
+    display: flex;                          /* kapladığı alanda esneklik saplar */
+    justify-content: space-between;         /* navbar sağa ve sola ayırır */
+    align-items: center;                    /* yukarı aşağı eşitle ortaya yaz */
+    padding: 40px;          
+}
+
+/* logo özellikleri */
+.logo {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* menu alanı ve özellikleri */
+.menu {
+    list-style: none;                       /* noktaları kaldırma */
+    display: flex;
+}
+.menu li{
+    margin-right: 10px;
+    margin-left: 10px; 
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;                  /* a etiketi alt çizgi kaldırma*/
+    border-radius: 7px;                     
+    padding: 10px;
+}
+
+.menu a:hover {
+    color: black;
+    background-color: white;
+    transition: 0.5s;
+}
+
+/* randevu alanı arkaplan  */
+.arkaplan {
+    height: 100vh;                              /* ekran yüksekliğinin tamamını kapsar */
+    background-image: url("fotograflar/Copy\ space\ surrounded\ by\ hair\ accessories\ _\ Premium\ Photo.jpeg");
+    background-size: cover;                     /* resmin arkaplanı kaplaması */
+    background-position: center;                /* resmin ortalanması */
+
+    /* hafif karartı ekleme */
+    background-color: rgba(0,0,0,0.4);
+    background-blend-mode: darken;
+
+    /* içindeki özellikleri ortalama */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* randevu kutusu */
+.randevuAlanı {
+    background-color: white;
+    padding: 30px;
+    width: 500px;
+    border-radius: 15px;
+}
+
+.randevuAlanı h1{
+    text-align: center;
+}
+
+.uyarı {
+    text-align: center;
+    color: #c0392b;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
+
+form label {
+    font-weight: bold;
+    display: block;             /* block yapıp alt alta getirme */
+    margin-top: 10px;
+}
+
+form input{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+}
+form select{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;    
+}
+
+form button {
+    width: 100%;
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #192f45;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;                    /* mause üstüne gelince */
+}
+
+
+
+/* fiyat alanı arkaplan */
+.fiyatArkaplan {
+    height: 100vh;
+    background-image: url("fotograflar/Близкий\ взгляд\ на\ волосы\ _\ Премиум\ фото.jpeg");
+    background-size: cover;
+    background-position: center;
+
+    /* karartı efekti */
+    background-color: rgba(0,0,0,0.4);
+    background-blend-mode: darken;
+
+    /* içindekileri ortalama */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.fiyatAlani {
+    background-color: white;
+    width: 800px;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.fiyatAlani h2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+
+.kart {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.kart {
+    transition: 0.3s;
+}
+
+.kart:hover {
+    background-color: #7aadcd;
+}
+
+
+.kartAyırma {
+    display: grid;                                      /* ızgaralı düzen */
+    grid-template-columns: 1fr 1fr;                     /* 2 sütun */
+    gap: 20px;                                          /* satır ve sütunlar arası boşluk */
+}
+
+/* kart boyutları */
+.kart {
+    height: 120px;
+}
+
+
+.fiyat {
+    background-color: #082b4f;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+
+.hakkimda {
+    min-height: 20vh;
+    padding: 50px 30px;
+    background-color: #ffffff;
+    text-align: center;
+    font-size: 25px;
+}
+.hakkimda h1 {
+    font-size: 35px;
+    font-style: italic;
+}
+
+

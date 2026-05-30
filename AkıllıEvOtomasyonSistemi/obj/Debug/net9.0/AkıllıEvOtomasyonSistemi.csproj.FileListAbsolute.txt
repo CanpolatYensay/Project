@@ -1,0 +1,14 @@
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/bin/Debug/net9.0/AkıllıEvOtomasyonSistemi
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/bin/Debug/net9.0/AkıllıEvOtomasyonSistemi.deps.json
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/bin/Debug/net9.0/AkıllıEvOtomasyonSistemi.runtimeconfig.json
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/bin/Debug/net9.0/AkıllıEvOtomasyonSistemi.dll
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/bin/Debug/net9.0/AkıllıEvOtomasyonSistemi.pdb
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/obj/Debug/net9.0/AkıllıEvOtomasyonSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/obj/Debug/net9.0/AkıllıEvOtomasyonSistemi.AssemblyInfoInputs.cache
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/obj/Debug/net9.0/AkıllıEvOtomasyonSistemi.AssemblyInfo.cs
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/obj/Debug/net9.0/AkıllıEvOtomasyonSistemi.csproj.CoreCompileInputs.cache
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/obj/Debug/net9.0/AkıllıEvOtomasyonSistemi.dll
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/obj/Debug/net9.0/refint/AkıllıEvOtomasyonSistemi.dll
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/obj/Debug/net9.0/AkıllıEvOtomasyonSistemi.pdb
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/obj/Debug/net9.0/AkıllıEvOtomasyonSistemi.genruntimeconfig.cache
+/Users/canpolat/C#/AkıllıEvOtomasyonSistemi/obj/Debug/net9.0/ref/AkıllıEvOtomasyonSistemi.dll
