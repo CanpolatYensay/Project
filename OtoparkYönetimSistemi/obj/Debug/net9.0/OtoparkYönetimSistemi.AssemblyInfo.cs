@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OtoparkYönetimSistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4592c31b750e92a8018a6f54dc42a3ced5385a54")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9afd6a3970dc71f1d51ecb765d9b60d6a923e6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OtoparkYönetimSistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OtoparkYönetimSistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
