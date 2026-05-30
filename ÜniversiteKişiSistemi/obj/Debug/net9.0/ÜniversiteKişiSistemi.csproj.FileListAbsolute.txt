@@ -1,0 +1,14 @@
+/Users/canpolat/C#/ÜniversiteKişiSistemi/bin/Debug/net9.0/ÜniversiteKişiSistemi
+/Users/canpolat/C#/ÜniversiteKişiSistemi/bin/Debug/net9.0/ÜniversiteKişiSistemi.deps.json
+/Users/canpolat/C#/ÜniversiteKişiSistemi/bin/Debug/net9.0/ÜniversiteKişiSistemi.runtimeconfig.json
+/Users/canpolat/C#/ÜniversiteKişiSistemi/bin/Debug/net9.0/ÜniversiteKişiSistemi.dll
+/Users/canpolat/C#/ÜniversiteKişiSistemi/bin/Debug/net9.0/ÜniversiteKişiSistemi.pdb
+/Users/canpolat/C#/ÜniversiteKişiSistemi/obj/Debug/net9.0/ÜniversiteKişiSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/canpolat/C#/ÜniversiteKişiSistemi/obj/Debug/net9.0/ÜniversiteKişiSistemi.AssemblyInfoInputs.cache
+/Users/canpolat/C#/ÜniversiteKişiSistemi/obj/Debug/net9.0/ÜniversiteKişiSistemi.AssemblyInfo.cs
+/Users/canpolat/C#/ÜniversiteKişiSistemi/obj/Debug/net9.0/ÜniversiteKişiSistemi.csproj.CoreCompileInputs.cache
+/Users/canpolat/C#/ÜniversiteKişiSistemi/obj/Debug/net9.0/ÜniversiteKişiSistemi.dll
+/Users/canpolat/C#/ÜniversiteKişiSistemi/obj/Debug/net9.0/refint/ÜniversiteKişiSistemi.dll
+/Users/canpolat/C#/ÜniversiteKişiSistemi/obj/Debug/net9.0/ÜniversiteKişiSistemi.pdb
+/Users/canpolat/C#/ÜniversiteKişiSistemi/obj/Debug/net9.0/ÜniversiteKişiSistemi.genruntimeconfig.cache
+/Users/canpolat/C#/ÜniversiteKişiSistemi/obj/Debug/net9.0/ref/ÜniversiteKişiSistemi.dll

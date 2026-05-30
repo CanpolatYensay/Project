@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KütüphaneSistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+becdc32a2e8c21cdf63499a5b989e34f50780599")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b4611740fa6eee18b16b5665c9151b07606f68d")]
 [assembly: System.Reflection.AssemblyProductAttribute("KütüphaneSistemi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KütüphaneSistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

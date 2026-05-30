@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("personelMaasSistemi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("E-TicaretÜrünYönetimSistemi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b4611740fa6eee18b16b5665c9151b07606f68d")]
-[assembly: System.Reflection.AssemblyProductAttribute("personelMaasSistemi")]
-[assembly: System.Reflection.AssemblyTitleAttribute("personelMaasSistemi")]
+[assembly: System.Reflection.AssemblyProductAttribute("E-TicaretÜrünYönetimSistemi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("E-TicaretÜrünYönetimSistemi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

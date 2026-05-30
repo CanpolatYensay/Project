@@ -1,0 +1,14 @@
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/bin/Debug/net9.0/E-TicaretÜrünYönetimSistemi
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/bin/Debug/net9.0/E-TicaretÜrünYönetimSistemi.deps.json
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/bin/Debug/net9.0/E-TicaretÜrünYönetimSistemi.runtimeconfig.json
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/bin/Debug/net9.0/E-TicaretÜrünYönetimSistemi.dll
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/bin/Debug/net9.0/E-TicaretÜrünYönetimSistemi.pdb
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/obj/Debug/net9.0/E-TicaretÜrünYönetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/obj/Debug/net9.0/E-TicaretÜrünYönetimSistemi.AssemblyInfoInputs.cache
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/obj/Debug/net9.0/E-TicaretÜrünYönetimSistemi.AssemblyInfo.cs
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/obj/Debug/net9.0/E-TicaretÜrünYönetimSistemi.csproj.CoreCompileInputs.cache
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/obj/Debug/net9.0/E-TicaretÜrünYönetimSistemi.dll
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/obj/Debug/net9.0/refint/E-TicaretÜrünYönetimSistemi.dll
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/obj/Debug/net9.0/E-TicaretÜrünYönetimSistemi.pdb
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/obj/Debug/net9.0/E-TicaretÜrünYönetimSistemi.genruntimeconfig.cache
+/Users/canpolat/C#/E-TicaretÜrünYönetimSistemi/obj/Debug/net9.0/ref/E-TicaretÜrünYönetimSistemi.dll
