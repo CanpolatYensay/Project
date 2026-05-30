@@ -54,3 +54,7 @@ Bu proje:
 * Görsel ve içerik yerleşimi
 
 konularında pratik yapmak amacıyla geliştirilmiştir.
+
+# Geliştirici
+Canpolat Yensay
+

@@ -61,3 +61,6 @@ Bu proje:
 
 konularında pratik yapmak amacıyla geliştirilmiştir.
 
+# Geliştirici
+Canpolat Yensay
+

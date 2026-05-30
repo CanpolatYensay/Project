@@ -60,3 +60,8 @@ Bu proje:
 - Admin panel sistemi geliştirme
 
 konularında pratik yapmak amacıyla geliştirilmiştir.
+
+# Geliştirici
+Canpolat Yensay
+
+
